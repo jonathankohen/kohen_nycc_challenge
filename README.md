@@ -16,8 +16,8 @@
 
 If you have any issues or questions, please feel free to reach out to me. Thank you for your consideration, I'm looking forward to hearing back from you!
 
-Jonathan Kohen (I usually go by Jon, but either is fine)
-jonathan.a.kohen@gmail.com
+Jonathan Kohen (I usually go by Jon, but either is fine)  
+jonathan.a.kohen@gmail.com  
 (978) 457-1588
 
 ## Setup Instructions
